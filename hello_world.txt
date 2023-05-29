@@ -1,1 +1,2 @@
 Hello World, oh the amount of times I have typed these silly words
+Here I am testing git commands in the command line.
